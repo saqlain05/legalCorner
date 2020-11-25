@@ -58,8 +58,32 @@
                 width: 3rem;
                 height: 3rem;
                 border-radius: 50%;
+                cursor: pointer;
             }
         }
         
     }
+}
+.menuItems{
+    background-color: #1D2E4E;
+    border: transparent;
+    
+
+    .a,button{
+        background-color: transparent;
+        border: none;
+        color: white;
+        padding: .5rem 1.2rem;
+        cursor: pointer;
+    }
+
+   
+}
+.a{
+    background-color: #1D2E4E;
+    border: none;
+    color: white;
+    padding: .5rem 1.5rem;
+    cursor: pointer;
+    padding-left: .5rem;
 }
